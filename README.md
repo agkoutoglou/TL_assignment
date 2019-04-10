@@ -25,7 +25,7 @@ File "KillAllDocker.bat" is included and it will find and stop/remove all contai
 DO NOT RUN THE TOOL OR "KillAllDocker.bat"  ON A PRODUCTION MACHINE THAT HOSTS DOCKER CONTAINERS! YOU'VE BEEN WARNED!
 -BEWARE
 
-This tool uses:
+This tool was running in Powershell and uses:
 docker.py libraries - https://github.com/docker/docker-py
 Flask microframework - http://flask.pocoo.org/
 Docker - https://www.docker.com/
