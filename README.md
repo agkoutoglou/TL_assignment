@@ -1,7 +1,7 @@
 # TL_assigment
 Tradeline assigment
 
-
+The description of the assigment is in the pdf file. 
 Python tool to manage and monitor Docker's containers.
 The current tool creates 5 containers that runs Flask and they listen to localhost:[4000-4004] to return a web page containing a "Hello World" and the container ID.
 
